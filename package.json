@@ -1,0 +1,29 @@
+{
+  "name": "api6",
+  "version": "1.0.0",
+  "description": "Authentication APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin",
+  "license": "ISC",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "cron": "^1.8.2",
+    "cryptlib": "^1.0.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "generate-password": "^1.7.0",
+    "localizify": "^2.0.0",
+    "moment": "^2.29.2",
+    "mysql": "^2.18.1",
+    "node-async-loop": "^1.2.2",
+    "node-datetime": "^2.1.2",
+    "nodemailer": "^6.7.3",
+    "rand-token": "^1.0.1",
+    "random-number": "^0.0.9",
+    "request": "^2.88.2",
+    "Validator": "^1.1.4"
+  }
+}
